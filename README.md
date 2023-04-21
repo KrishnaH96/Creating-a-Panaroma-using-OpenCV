@@ -34,7 +34,8 @@ pip install opencv-python numpy
 To use this code, follow these steps:
 
 1. Clone this repository: `https://github.com/KrishnaH96/Creating-a-Panaroma-using-OpenCV.git`
-2. Navigate to the cloned directory: `cd panoramic-image-stitching`
+2. Create a folder with all the images from the package, and update the corresponding address of these images in the python script.
+3. Navigate to the cloned directory: `cd panoramic-image-stitching`
 3. Run the Python script: `python image_stitching.py`
 4. The output panoramic image will be displayed on the screen.
 
